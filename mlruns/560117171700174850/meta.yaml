@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/560117171700174850
+creation_time: 1757094112376
+experiment_id: '560117171700174850'
+last_update_time: 1757094112376
+lifecycle_stage: active
+name: churn_bdb
