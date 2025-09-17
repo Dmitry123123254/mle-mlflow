@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/0/106d8e647bec4abf81867be4f918456d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 106d8e647bec4abf81867be4f918456d
+run_name: bald-moth-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758064456736
+status: 1
+tags: []
+user_id: mle-user

@@ -1,0 +1,45 @@
+artifact_path: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/365033465810942737/models/m-40d797e4caef442a8b2353409a6ddcb6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-40d797e4caef442a8b2353409a6ddcb6
+model_size_bytes: 16656
+model_uuid: m-40d797e4caef442a8b2353409a6ddcb6
+prompts: null
+run_id: ad4001bacb1042beac526c546c520362
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "paperless_billing", "required": true}, {"type":
+    "string", "name": "payment_method", "required": true}, {"type": "string", "name":
+    "internet_service", "required": false}, {"type": "string", "name": "online_security",
+    "required": false}, {"type": "string", "name": "online_backup", "required": false},
+    {"type": "string", "name": "device_protection", "required": false}, {"type": "string",
+    "name": "tech_support", "required": false}, {"type": "string", "name": "streaming_tv",
+    "required": false}, {"type": "string", "name": "streaming_movies", "required":
+    false}, {"type": "string", "name": "gender", "required": true}, {"type": "long",
+    "name": "senior_citizen", "required": true}, {"type": "string", "name": "partner",
+    "required": true}, {"type": "string", "name": "dependents", "required": true},
+    {"type": "string", "name": "multiple_lines", "required": false}, {"type": "double",
+    "name": "monthly_charges", "required": true}, {"type": "double", "name": "total_charges",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-16 23:14:13.811316'

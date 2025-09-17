@@ -1,0 +1,9 @@
+online_security_Yes
+device_protection_Yes
+tech_support_Yes
+internet_service_Fiber optic
+streaming_movies_Yes
+streaming_tv_Yes
+online_backup_Yes
+monthly_charges
+type_Two year

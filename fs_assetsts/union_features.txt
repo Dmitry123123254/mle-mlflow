@@ -1,0 +1,11 @@
+monthly_charges
+total_charges
+internet_service_Fiber optic
+device_protection_Yes
+type_Two year
+streaming_movies_Yes
+online_security_Yes
+tech_support_Yes
+online_backup_Yes
+streaming_tv_Yes
+type_One year

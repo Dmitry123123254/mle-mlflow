@@ -1,0 +1,10 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/365033465810942737/models/m-ab35e25bd2844742ba80a86664930b4f/artifacts
+creation_timestamp: 1758064134531
+experiment_id: '365033465810942737'
+last_updated_timestamp: 1758064139594
+model_id: m-ab35e25bd2844742ba80a86664930b4f
+model_type: null
+name: afc
+source_run_id: bf0bbe73c816477cb72317d500b1564d
+status: 2
+status_message: null
